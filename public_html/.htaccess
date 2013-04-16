@@ -1,0 +1,40 @@
+RewriteOptions inherit
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^deeptissuemassageperth\.html$ "http\:\/\/massagetherapyperth\.com\.au\/deep\-tissue\-massage" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^lymphaticdrainageperth\.html$ "http\:\/\/massagetherapyperth\.com\.au\/lymphatic\-drainage" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^pregnancymassageperth\.html$ "http\:\/\/massagetherapyperth\.com\.au\/pregnancy\-massage" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^myofascialreleaseperth\.html$ "http\:\/\/massagetherapyperth\.com\.au\/myofascial\-release" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^deeptissueandtriggerpointtherapyperth\.com\.au$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.deeptissueandtriggerpointtherapyperth\.com\.au$
+RewriteRule ^/?$ "http\:\/\/www\.massagetherapyperth\.com\.au\/deep\-tissue\-massage\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^lymphaticdrainageperth\.com\.au$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.lymphaticdrainageperth\.com\.au$
+RewriteRule ^/?$ "http\:\/\/www\.massagetherapyperth\.com\.au\/lymphatic\-drainage\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^myofascialreleaseperth\.com\.au$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.myofascialreleaseperth\.com\.au$
+RewriteRule ^/?$ "http\:\/\/www\.massagetherapyperth\.com\.au\/myofascial\-release\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^pregnancymassageperth\.com\.au$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.pregnancymassageperth\.com\.au$
+RewriteRule ^/?$ "http\:\/\/www\.massagetherapyperth\.com\.au\/pregnancy\-massage\/" [R=301,L]
