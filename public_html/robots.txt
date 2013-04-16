@@ -34,8 +34,8 @@ Allow: /
 
 
 # getting sick with the sitemaps
+Sitemap: http://www.massagetherapyperth.com.au/sitemap_index.xml
 #Sitemap: http://www.askapache.com/sitemap.xml
-#Sitemap: http://www.askapache.com/sitemap_index.xml
 #Sitemap: http://www.askapache.com/page-sitemap.xml 
 #Sitemap: http://www.askapache.com/post-sitemap.xml 
 #Sitemap: http://www.askapache.com/sitemap-news.xml 
