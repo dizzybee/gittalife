@@ -1,0 +1,49 @@
+Test 001
+to: gitta@massagetherapyperth.com.au
+subject: GittaLife Test Email 001
+This has been sent to gitta@massagetherapyperth.com.au and should have arrived at gittaau@yahoo.com
+
+Test 002
+to: gitta@deeptissueandtriggerpointtherapyperth.com.au
+subject: GittaLife Test Email 002
+This has been sent to gitta@deeptissueandtriggerpointtherapyperth.com.au and should have arrived at gittaau@yahoo.com
+
+Test 003
+to: gitta@lymphaticdrainageperth.com.au
+subject: GittaLife Test Email 003
+This has been sent to gitta@lymphaticdrainageperth.com.au and should have arrived at gittaau@yahoo.com
+
+Test 004
+to: gitta@myofascialreleaseperth.com.au
+subject: GittaLife Test Email 004
+This has been sent to gitta@myofascialreleaseperth.com.au and should have arrived at gittaau@yahoo.com
+
+Test 005
+to: gitta@pregnancymassageperth.com.au
+subject: GittaLife Test Email 005
+This has been sent to gitta@pregnancymassageperth.com.au and should have arrived at gittaau@yahoo.com
+
+Test 006
+to: anyone@massagetherapyperth.com.au
+subject: GittaLife Test Email 006
+This has been sent to anyone@massagetherapyperth.com.au and should have arrived at gittaau@yahoo.com. This shows that any email sent to this domain will get through.
+
+Test 007
+to: anyone@deeptissueandtriggerpointtherapyperth.com.au
+subject: GittaLife Test Email 007
+This has been sent to anyone@deeptissueandtriggerpointtherapyperth.com.au and should have arrived at gittaau@yahoo.com. This shows that any email sent to this domain will get through.
+
+Test 008
+to: anyone@lymphaticdrainageperth.com.au
+subject: GittaLife Test Email 008
+This has been sent to anyone@lymphaticdrainageperth.com.au and should have arrived at gittaau@yahoo.com. This shows that any email sent to this domain will get through.
+
+Test 009
+to: anyone@myofascialreleaseperth.com.au
+subject: GittaLife Test Email 009
+This has been sent to anyone@myofascialreleaseperth.com.au and should have arrived at gittaau@yahoo.com. This shows that any email sent to this domain will get through.
+
+Test 010
+to: anyone@pregnancymassageperth.com.au
+subject: GittaLife Test Email 010
+This has been sent to anyone@pregnancymassageperth.com.au and should have arrived at gittaau@yahoo.com. This shows that any email sent to this domain will get through.
